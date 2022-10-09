@@ -1,0 +1,10 @@
+tensorflow==2.6
+keras==2.6
+pandas
+numpy
+sklearn
+matplotlib
+python-dateutil
+pytz 
+tzlocal
+Unidecode
